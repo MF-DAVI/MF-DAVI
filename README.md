@@ -18,11 +18,17 @@ Olá! 👋 Eu sou DAVI
 ⚡ Curiosidade: acredito que todo projeto é uma oportunidade de aprender algo novo.
 
 🛠️ Tecnologias e ferramentas
+
 💻 Desenvolvimento
+
 🌐 Web
+
 🗄️ Banco de dados
+
 🐙 Git & GitHub
+
 ☁️ Cloud
+
 🔧 Ferramentas de desenvolvimento
 
 📌 Projetos
