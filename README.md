@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi! 👋
+# Opa, eu sou o Davi! 👋
 
 🎓 **Estudante de Engenharia de Software** | Apaixonado por tecnologia, lógica e resolução de problemas.
 
