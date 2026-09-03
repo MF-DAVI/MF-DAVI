@@ -4,12 +4,19 @@ Olá! 👋 Eu sou DAVI
 
 🚀 Sobre mim
 🔭 Atualmente estou trabalhando em novos projetos e explorando tecnologias.
+
 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em desenvolvimento.
+
 👯 Tenho interesse em colaborar com projetos interessantes e open source.
+
 🤔 Estou aberto a novos desafios e oportunidades para evoluir como desenvolvedor.
+
 💬 Pode falar comigo sobre programação, tecnologia e desenvolvimento de projetos.
+
 📚 Gosto de aprender coisas novas e compartilhar conhecimento.
+
 ⚡ Curiosidade: acredito que todo projeto é uma oportunidade de aprender algo novo.
+
 🛠️ Tecnologias e ferramentas
 💻 Desenvolvimento
 🌐 Web
