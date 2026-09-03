@@ -23,9 +23,13 @@ Olá! 👋 Eu sou DAVI
 Aqui você pode encontrar alguns dos projetos que estou desenvolvendo e experimentando.
 
 🚧 Projetos em desenvolvimento
+
 💡 Projetos pessoais
+
 🔓 Projetos Open Source
+
 📚 Projetos de estudo
+
 📊 GitHub
 
 📫 Entre em contato
