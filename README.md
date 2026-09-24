@@ -2,7 +2,7 @@
 
 🎓 **Estudante de Engenharia de Software** | Apaixonado por tecnologia, lógica e resolução de problemas.
 
---- [MEU GIT](https://github.com/MF-DAVI)
+---
 
 ### 🚀 Sobre mim 
 
