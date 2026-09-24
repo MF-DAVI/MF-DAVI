@@ -8,7 +8,7 @@
 
 - 📚 Atualmente cursando **Engenharia de Software**.
 - 🐍 Focado no aprendizado e aprimoramento em **Python**.
-- ⚙️ Já trabalhei com **C**, construindo bases sólidas em lógica, algoritmos, estrutura de dados e gerenciamento de memória.
+- ⚙️ Já trabalhei com **C, java e css**, construindo bases sólidas em lógica, algoritmos, estrutura de dados e gerenciamento de memória.
 - 📐 Me interesso por Engenharia de Requisitos, Análise de Sistemas e Arquitetura de Software.
 
 ---
