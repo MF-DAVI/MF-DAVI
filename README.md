@@ -12,7 +12,7 @@
 - 📐 Me interesso por Engenharia de Requisitos, Análise de Sistemas e Arquitetura de Software.
 
 ---
-<h1 data-importer="text" align="center">🎧 𝚕𝚘𝚞𝚍 𝚖𝚞𝚜𝚒𝚌, 𝚚𝚞𝚒𝚎𝚝 𝚌𝚘𝚍𝚎</h1>
+<h1 data-importer="text" align="center">Trabalhando com</h1>
 
 ###
 
